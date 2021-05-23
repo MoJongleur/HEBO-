@@ -1,0 +1,1 @@
+export const SET_TO_LOCALSTORE = 'SET_TO_LOCALSTORE';
